@@ -49,5 +49,8 @@ For more detailed information on how the data is processed and visualized, refer
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out via the repository's issue tracker.
+If you have any questions or suggestions, feel free to reach out via [GitHub issues](https://github.com/manishk050/Amazon-Power-BI/issues).
 
+---
+
+Happy Exploring! 🎉
