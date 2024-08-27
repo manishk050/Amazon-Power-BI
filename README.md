@@ -47,10 +47,6 @@ For more detailed information on how the data is processed and visualized, refer
 - Ensure that the dataset (`Amazon_Sales_Dataset.csv`) is in the same directory as the Power BI file to avoid any issues with data loading.
 - If you wish to update the dataset or make modifications, ensure the data is properly formatted to match the existing data model.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out via the repository's issue tracker.
