@@ -3,6 +3,7 @@
 
 This repository contains a Power BI project focused on analyzing Amazon sales data. The project provides insights into various sales metrics and trends using visualizations created in Power BI.
 
+[PBI Link](https://app.powerbi.com/groups/me/reports/ad41e2a4-5e67-49c3-87ec-f2d5533e579e/552da9be3c48949931ca?experience=power-bi).
 ## Project Overview
 
 The goal of this project is to leverage Power BI to analyze a dataset of Amazon sales. The dataset includes various attributes such as product categories, sales numbers, and other relevant metrics. The project visualizes these metrics to identify trends and provide actionable insights.
